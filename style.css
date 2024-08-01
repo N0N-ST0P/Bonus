@@ -1,0 +1,41 @@
+:root {
+  --beige: #e4d8cc;
+  --white: #ffffff;
+  --white-beige: #fffaf5;
+  --dirt-gray: #c3bab1;
+  --black: #101010;
+  --purple: #b99fea;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Inter", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+header a {
+  text-decoration: none;
+  color: #e4d8cc;
+  font-size: 11px;
+}
+
+.header-ul-left {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  margin-left: 198px;
+  gap: 32px;
+}
+
+.header-ul-right {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  margin-left: 1041px; 
+  gap: 38px;
+}
