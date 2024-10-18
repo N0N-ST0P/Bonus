@@ -1,0 +1,128 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M876.591 510.286c0 271.726-194.039 492.012-433.392 492.012-239.351 0-433.392-220.286-433.392-492.012 0-271.762 194.041-492.086 433.392-492.086 239.353 0 433.392 220.324 433.392 492.086z"
+        ],
+        "attrs": [],
+        "width": 878,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "ellipse"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 16,
+        "id": 2,
+        "name": "ellipse",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M783.896 982.096h-652.502c-48.511 0-87.837-44.645-87.837-99.717v-530.64l414.088-309.836 414.087 309.836v530.64c0 55.071-39.325 99.717-87.836 99.717z"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 83.2520325203252
+          }
+        ],
+        "width": 916,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "house"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 83.2520325203252
+        }
+      ],
+      "properties": {
+        "order": 15,
+        "id": 1,
+        "name": "house",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1125.207 1008.592c-429.729 0-830.36-241.413-1071.679-645.702-63.28-106.034-38.881-250.227 54.519-322.066 93.423-71.917 220.437-44.139 283.716 61.867 165.215 276.818 439.398 442.090 733.443 442.090s568.228-165.272 733.443-442.090c63.279-105.981 190.313-133.758 283.718-61.867 93.405 71.839 117.8 216.032 54.513 322.066-241.315 404.289-641.946 645.702-1071.674 645.702z"
+        ],
+        "attrs": [],
+        "width": 2249,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "smile"
+        ],
+        "colorPermutations": {}
+      },
+      "attrs": [],
+      "properties": {
+        "order": 17,
+        "id": 0,
+        "name": "smile",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 2
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showCodes": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {},
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "icon-",
+      "png": true,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "name": "icomoon",
+      "classSelector": ".icon"
+    },
+    "historySize": 50,
+    "gridSize": 16
+  }
+}
